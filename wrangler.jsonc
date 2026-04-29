@@ -106,5 +106,5 @@
   // - R2_SECRET_ACCESS_KEY: R2 secret access key (from R2 API tokens)
   // - CLOUDFLARE_ACCOUNT_ID: Your Cloudflare account ID
   // - BACKUP_BUCKET_NAME: R2 bucket name (default: moltbot-data)
-  // rebuild-trigger-1777421002762
+  // rebuild-trigger-1777434586401
 }
